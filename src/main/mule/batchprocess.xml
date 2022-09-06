@@ -51,7 +51,7 @@ payload]]></ee:set-payload>
 					</ee:message>
 				</ee:transform>
 				<logger level="INFO" doc:name="Logger" doc:id="2106d236-932b-4968-a5c6-17b2e3ad25ba" message="#[payload]"/>
-				<logger level="INFO" doc:name="Logger" doc:id="2106d236-932b-4968-a5c6-17b2e3ad25ba" message="Source modified by Manivel/as suggested by Tara"/>
+				<logger level="INFO" doc:name="Logger" doc:id="2106d236-932b-4968-a5c6-17b2e3ad25ba" message="Added one more logger by Tara"/>
 			</batch:on-complete>
 		</batch:job>
 	</flow>
