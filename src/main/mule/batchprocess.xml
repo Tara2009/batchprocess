@@ -52,7 +52,7 @@ payload]]></ee:set-payload>
 				</ee:transform>
 				<logger level="INFO" doc:name="Logger" doc:id="2106d236-932b-4968-a5c6-17b2e3ad25ba" message="#[payload]"/>
 
-				<logger level="INFO" doc:name="Logger" doc:id="2106d236-932b-4968-a5c6-17b2e3ad25ba" message="Added one more logger by Tara"/>
+				<logger level="INFO" doc:name="Logger" doc:id="2106d236-932b-4968-a5c6-17b2e3ad25ba" message="Working Vinnu and Harshil Kalyan"/>
 
 				<logger level="INFO" doc:name="Logger" doc:id="2106d236-932b-4968-a5c6-17b2e3ad25ba" message="Modified by Other colleague"/>
 
