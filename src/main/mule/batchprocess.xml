@@ -52,8 +52,12 @@ payload]]></ee:set-payload>
 				</ee:transform>
 				<logger level="INFO" doc:name="Logger" doc:id="2106d236-932b-4968-a5c6-17b2e3ad25ba" message="#[payload]"/>
 
+
 				<logger level="INFO" doc:name="Logger" doc:id="2106d236-932b-4968-a5c6-17b2e3ad25ba" message="Working Vinnu and Harshil kalyan 2014"/>
 				<logger level="INFO" doc:name="Logger" doc:id="6e5e1158-1db9-4448-abca-15baf4835fc8" message="Hi This is mother Siri"/>
+
+				<logger level="INFO" doc:name="Logger" doc:id="2106d236-932b-4968-a5c6-17b2e3ad25ba" message="Change"/>
+
 
 			</batch:on-complete>
 		</batch:job>
